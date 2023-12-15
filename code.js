@@ -5,6 +5,7 @@ SOURCES:
     https://en.wikipedia.org/wiki/Depth-first_search
     https://www.programiz.com/dsa/graph-dfs
     https://www.simplilearn.com/tutorials/data-structure-tutorial/dfs-algorithm
+    Source: Lab 6 - Nicholas Matter - 10/21/22
 */
 function depthFirstSearch(graph, startNode, targetNode){
     var visited = [];
